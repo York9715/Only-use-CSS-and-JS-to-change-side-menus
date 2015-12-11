@@ -8,6 +8,7 @@ $(document).ready(function() {
 $(".links").hide();
 $(".footer-bar").hide();
 
+#top 
 $(".top-menu-link").click(function(){
 	$(".links").toggle();
 })
