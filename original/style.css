@@ -1,0 +1,152 @@
+body{color:#000000;margin:0;line-height:1.4em;position:relative;background: #fff url(bg-standard.jpg) top;background-attachment:fixed;}
+
+#wrapper {
+	width: 900px;
+	margin: 0 auto;
+}
+
+#template {
+	margin: 0 12px;
+}
+
+#header {
+	height:58px;
+	padding: 12px;
+	position: relative;
+}
+
+#header .logo {
+	font-size: 52px;
+	line-height: 52px;
+	color: #002888;
+}
+
+#header .links {
+	float: right;
+	position: absolute;
+	right: 12px;
+	top: 6px;
+}
+
+#main-nav {
+	height: 30px;
+	background-color: #002888;
+	margin-bottom: 12px;
+	line-height: 30px;
+	padding: 0 12px;
+	color: #fff;
+}
+
+#main-nav a {
+	color: #fff;
+}
+
+#left-nav {
+	width: 200px;
+	float: left;
+}
+
+#left-nav .left-links {
+	border: solid;
+	border-width: 1px;
+	margin-bottom: 12px;
+}
+
+#left-nav .left-links ul {
+	list-style: none;
+	margin: 0 0 0 -24px;
+}
+
+#left-nav .left-links ul li {
+	border-bottom: dotted;
+	border-width: 1px;
+	margin-bottom: 2px;
+}
+
+#left-nav .left-links ul li.main {
+	background-color: #002888;
+	color: #fff;
+	font-size: 19px;
+	padding: 8px 16px;;
+	margin-left: -16px;
+}
+
+#left-nav .left-links ul li.main a {
+	color: #fff;
+}
+
+#left-nav .left-links ul li.last {
+	border-bottom: none;
+}
+
+#left-nav .left-links ul li ul li {
+	border-bottom: none;
+}
+
+#right-nav {
+	width: 200px;
+	float: right;
+}
+
+#main-content {
+	width: 452px;
+	float: left;
+	padding: 0 12px;
+}
+
+#footer {
+	clear: both;
+}
+
+#footer .search {
+	float: right;
+	margin-top: 3px;
+}
+
+#footer .footer-bar {
+	background-color: #E9E4D1;
+	height: 30px;
+	line-height: 30px;
+	padding: 0 12px;
+}
+
+#footer .footer-links {
+	padding: 6px 12px;
+	border-width: 1px!important;
+	border: solid;
+	border-color: #d5ccae;
+	border-right: none;
+	border-left: none;
+}
+
+.box {
+	border: solid;
+	border-width: 1px;
+	margin-bottom: 12px;
+}
+
+.box h2 {
+	padding: 6px 12px;
+	margin: 0px;
+	font-size: 16px;
+	background-color: #CCD4E5;
+}
+
+.box p {
+	padding: 0px 12px;
+}
+
+.box.yellow h2 {
+	background-color: #FEEFB4!important;
+}
+
+h2.firstline {
+	margin-top: 0px;
+}
+
+p {
+	margin: 0 0 6px 0;
+}
+
+
+

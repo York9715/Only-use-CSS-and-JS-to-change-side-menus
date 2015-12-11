@@ -1,0 +1,49 @@
+.panel {
+    position: fixed;
+    left: -15.625em; 
+    width: 15.625em; 
+}
+
+body {
+    font-family: 'Source Sans Pro', sans-serif;
+    color: #101820;
+    line-height: 1.5;
+}
+
+.wrap {
+    position: relative;
+    max-width: 80%;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.panel {
+    background: #101820;
+}
+
+.panel a {
+    color: #fff;
+}
+.left-menu-link {
+    position:fixed;
+    top: 50%;
+    left: 1%;
+    margin-top: 0; 
+    margin-left: 0; 
+    border: 1px solid #ccc; 
+    background-color: #f3f3f3; 
+}
+
+.top-menu-link {
+    position:fixed;
+    top: 0;
+    left: 98%;
+}
+
+.footer-menu-link {
+    position:absolute;
+    top: 95%;
+    left: 50%;
+}
+
+
